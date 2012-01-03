@@ -3,7 +3,7 @@ Contributors: Mike Jones (outerbridge)
 Author URI: http://outerbridge.co.uk/author/mike/
 Tags: shortcodes, nested, do_shortcode, the_content, text_widget
 Requires at least: 3.2
-Tested up to: 3.2.1
+Tested up to: 3.3
 Stable tag: trunk
 
 A small plugin which allows you to use nest shortcodes (i.e. a shortcode within an enclosing shortcode) by implementing a simple do_shortcode filter
@@ -36,11 +36,17 @@ You bet!  We'd love to hear from you, so please get in touch.
 
 == Changelog ==
 
+= 1.0 =
+- (03 Jan 2012) Tested and stable up to WP3.3
+
 = 0.1 =
 - (30 Aug 2011) Initial Release
 
 
 == Upgrade Notice ==
+
+= 1.0 =
+- Tested and stable up to WP3.3
 
 = 0.1 =
 - This is the initial release.
