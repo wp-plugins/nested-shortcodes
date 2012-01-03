@@ -11,7 +11,7 @@ License: GPL v2
 
 /**
  *
- * v1.0 120301 Tested and stable up to WP3.3
+ * v1.0 120103 Tested and stable up to WP3.3
  *
  * v0.1 110830 Initial release
  *
