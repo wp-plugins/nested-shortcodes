@@ -1,6 +1,6 @@
 === Outerbridge Nested Shortcodes ===
-Contributors: Mike Jones (outerbridge)
-Author URI: http://outerbridge.co.uk/author/mike/
+Contributors: outerbridge
+Author URI: http://outerbridge.co.uk/
 Tags: shortcodes, nested, do_shortcode, the_content, text_widget
 Requires at least: 3.2
 Tested up to: 3.6
